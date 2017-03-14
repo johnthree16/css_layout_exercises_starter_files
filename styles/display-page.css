@@ -1,0 +1,33 @@
+main{
+    padding: 20px;
+    font-size: 0;
+}
+
+.row{
+    width: 900px;
+}
+.fifty{
+    height: 100px;
+    width: 50%;
+    display: inline-block;
+}
+.thirty{
+    height: 100px;
+    width: 33.33%;
+    display: inline-block;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.gray{
+    background-color: gray;
+}
+.black{
+    background-color: black;
+}
+.buttercup{
+    background-color: #cd971f;
+}
